@@ -1,15 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package ntp.ı;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Serhat
- */
+
+ @author Serhat
+
 public class NTPII {
 
     public static void main(String[] args) {
